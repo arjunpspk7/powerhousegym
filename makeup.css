@@ -1,0 +1,41 @@
+p
+{
+  color: purple;
+  font-family: cursive;
+  font-size: 18px;
+  font-style: oblique;
+  border: dashed 5px yellow
+
+}
+img{
+  border-radius: 130px;
+  border: black solid 10px ;
+  height: 115px;
+  width: 115px;
+  margin-left: 30px;
+}
+h1{
+  background-color: ;
+  font-family: cursive;
+  margin-left:160px;
+  margin-top: -100px;
+  font-size: 50px;
+  padding-left: 0px;
+}
+div{
+  background-color: cyan;
+  border-color: cyan;
+  padding-top: 6px;
+
+}
+form{
+  border: 1px black solid;
+  margin: 60px 260px 260px;
+  padding: 30px 30px 30px 30px;
+  align:center;
+}
+table
+{
+  font-size: 20px
+  
+}
