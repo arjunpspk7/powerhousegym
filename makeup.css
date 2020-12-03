@@ -1,10 +1,10 @@
 p
 {
-  color: purple;
+  color: #FFC300;
   font-family: cursive;
   font-size: 18px;
   font-style: oblique;
-  border: dashed 5px yellow
+
 
 }
 img{
@@ -23,8 +23,8 @@ h1{
   padding-left: 0px;
 }
 div{
-  background-color: cyan;
-  border-color: cyan;
+  background-color: #DAF7A6;
+  border-color: #C70039;
   padding-top: 6px;
 
 }
@@ -37,5 +37,18 @@ form{
 table
 {
   font-size: 20px
-  
+}
+
+h3{
+  color: yellow;
+}
+body{
+  background-color: #4A11AE;
+}
+a{
+  color: #C8CD19;
+}
+.nav{
+  background-color:  #4A11AE;
+  margin-top: 10% auto;
 }
